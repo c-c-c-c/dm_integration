@@ -37,10 +37,14 @@
 ### モデル複数パターン
 　-線形回帰とstatsmodels
 　-ランダムフォレスト
-
+ 
+  - shap
+    https://qiita.com/shin_mura/items/cde01198552eda9146b7
 
 ### スクリプションのスクレイピング
-
+    EPGが各回ごとに取れることが発覚
+    http://timetable.yanbe.net/html/13/2020/01/20_1.html?13
+    
 ### NLP
 
 ### k-means
